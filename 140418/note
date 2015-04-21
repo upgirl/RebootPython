@@ -1,0 +1,54 @@
+arr = [1,2,3]
+
+# in
+#print 1 in arr
+
+# max
+#print max(arr)
+
+# min
+#print min(arr)
+
+# len
+#print len(arr)
+
+# del
+#del arr[0]
+#print arr
+
+# append, 向list的最后追加一个元素
+#arr.append(4)
+#print arr
+
+# count,统计list中某个元素出现的次数
+#print arr.count(2)
+
+# extend
+#arr.extend(['a','b'])
+#print arr
+
+# index, 从list中找出某个值第一个匹配的索引位置，若未找到则抛出异常
+#print arr.index(2)
+
+# insert
+#arr.insert(0,'z')
+#print arr
+
+# pop
+#arr.pop()
+#arr.pop(0)
+#print arr
+
+# remove ,删除
+#arr.remove(2)
+#print arr
+
+#reverse, 反向打印list
+#arr.reverse()
+#print arr
+
+
+
+
+
+

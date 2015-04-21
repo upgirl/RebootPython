@@ -1,0 +1,10 @@
+0 mao pao pai xu n*n
+1 cha ru pai xu  n*n
+doudizhu
+每两个都需要比较，复杂度高
+
+2 kuai su pai xu   nlog(n)
+jizhun bianli 
+mins  base  maxs
+
+3 2fen cha zhao
